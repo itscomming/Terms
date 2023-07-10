@@ -2,6 +2,7 @@
 
 # GUI
 The graphical user interface, or GUI, is a form of user interface that allows users to interact with electronic devices through graphical icons and audio indicators
+
 This is the roblox gui:
 ![Screenshot 2023-07-09 223113](https://github.com/itscomming/Terms/assets/4396254/48521e82-bc24-4136-83f0-2b7609601575)
 
